@@ -1,0 +1,13 @@
+{
+  "parent": "hanaro_mart:custom/cashier_machine",
+  "textures": {
+    "all": "hanaro_mart:block/cashier_machine_plate",
+    "particle": "hanaro_mart:block/cashier_machine_plate",
+    "5": "hanaro_mart:block/cashier_machine_plate",
+    "6": "hanaro_mart:block/cashier_machine_safe",
+    "7": "hanaro_mart:block/cashier_machine_type",
+    "8": "hanaro_mart:block/cashier_machine_top",
+    "9": "hanaro_mart:block/cashier_machine_safe_door"
+  },
+  "render_type": "solid"
+}

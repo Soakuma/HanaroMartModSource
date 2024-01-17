@@ -1,0 +1,10 @@
+{
+  "cash": {
+    "sounds": [
+      {
+        "name": "hanaro_mart:cash_register_cha-ching___sound_effect",
+        "stream": false
+      }
+    ]
+  }
+}

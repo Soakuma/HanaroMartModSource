@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "hanaro_mart:block/cashier_machine"
+    },
+    "facing=east": {
+      "model": "hanaro_mart:block/cashier_machine",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "hanaro_mart:block/cashier_machine",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "hanaro_mart:block/cashier_machine",
+      "y": 270
+    }
+  }
+}
